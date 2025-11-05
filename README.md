@@ -4,7 +4,7 @@
 #### Estudante do curso Análise e Desenvolvimento de Sistemas na Fatec Praia grande, graduado no curso de Infórmatica para Internet na Etec Maracanã.
 #### Prefiro trabalhar no front end, embora não deteste o back end.
 
-#### Tenho por hobby escrever e criação de jogos.
+#### Tenho por hobby escrever ficcção e ler.
 ### Colaborando em https://github.com/GustavoRez/TCC_Mentor
 
 ## Conheço ou estou aprendendo:
