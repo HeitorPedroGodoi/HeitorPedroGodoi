@@ -2,7 +2,7 @@
 
 **Heitor Pedro de Godoi** — Desenvolvedor em formação, movido pela curiosidade e pelo aprendizado contínuo.
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **Fatec Praia Grande** (conclusão em jul/2025).  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas** na **Fatec Praia Grande** (concluído em jul/2025).  
 📜 Técnico em **Informática para Internet** pela ETEC Maracanã.  
 🇬🇧 Inglês avançado (Certificado EF SET C1).
 
@@ -17,8 +17,7 @@ Uma plataforma web que usa IA (Google Gemini) para auxiliar alunos na criação 
 
 ## Tecnologias que conheço ou estou aprendendo 🛠️
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/>
