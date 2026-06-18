@@ -33,8 +33,3 @@ Uma plataforma web que usa IA (Google Gemini) para auxiliar alunos na criação 
 
 📫 **Contato:** heitorpedrodegodoi@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/heitor-pedro-de-godoi](https://www.linkedin.com/in/heitor-pedro-de-godoi/)
-
-
-
-
-#### "Fratribus omnia, inimicis nihil." - Meipsum.
